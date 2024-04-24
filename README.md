@@ -1,5 +1,5 @@
 Sentiment-Analysis
-Analyzed sentiment on reviews of businesses that sell pizza in Chicago, IL. Creaated chart and word cloud from the acquired data.
+Analyzed sentiment on reviews of businesses that sell pizza in Chicago, IL. Creaated chart and word cloud from the acquired data. Used Yelp Fusion API
 
 Instructions:
 In a Jupyter Notebook, perform sentiment analysis on reviews using an API such as Yelp Fusion.
